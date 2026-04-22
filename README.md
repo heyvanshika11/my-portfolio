@@ -1,16 +1,36 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+A highly responsive, interactive 3D personal portfolio website built with React, Vite, and 3D rendering libraries.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- **Immersive 3D Backgrounds:** Engaging visual experience using 3D graphics.
+- **Responsive Design:** Optimized for all devices (desktop, tablet, mobile).
+- **Interactive Sections:** Beautifully crafted sections for Hero, About Me, Experience, Achievements, and more.
+- **Modern UI/UX:** Clean aesthetics, glassmorphism elements, and smooth micro-animations.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technology Stack
 
-## Expanding the ESLint configuration
+- **Framework:** React + Vite
+- **Styling:** CSS
+- **3D Graphics:** Three.js / React Three Fiber
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Running Locally
+
+To run this project locally, follow these steps:
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## 👨‍💻 Author
+
+**Vanshika**
+
+---
+*Template initially bootstrapped with Vite.*
